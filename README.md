@@ -2,8 +2,7 @@
 
 ![Modern CV template][github-sub-title:img]
 
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Cheat199&show_icons=true&theme=tokyonight])]
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheat199&show_icons=true&theme=tokyonight)]
 
 ![](https://img.shields.io/badge/喜欢-折腾-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
